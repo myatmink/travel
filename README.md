@@ -1,3 +1,3 @@
 # travel
-travel website practice
+travel website
 https://myatmink.github.io/travel/
